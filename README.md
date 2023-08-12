@@ -2,7 +2,7 @@
 neobis_front_cinema
 
 <h1>"Movie App"</h1>
-<a href=""></a>
+<a href="https://begimaimukaeva.github.io/neobis_front_cinema/">https://begimaimukaeva.github.io/neobis_front_cinema/</a>
 <h2>Project Description:</h2>
 <p>"Movie App" project is a web application designed for viewing movie information and managing a list of favorite films.
     The application utilizes an open API from the website https://kinopoiskapiunofficial.tech/ to retrieve movie data.
