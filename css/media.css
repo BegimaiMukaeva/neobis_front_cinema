@@ -1,0 +1,17 @@
+@media (max-width: 1024px) and (min-width: 450px){
+    .container {
+        padding: 0 20px;
+        width: 90%;
+    }
+    .header__content {
+        width: 90%;
+        height: 60px;
+    }
+    #title {
+        height: 90px;
+        width: 90%;
+    }
+    .not-favorite {
+        width: 90%;
+    }
+}

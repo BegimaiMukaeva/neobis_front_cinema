@@ -16,7 +16,12 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 16px;
-    height: 60px;
+    width: 1200px;
+    height: 80px;
+    position: fixed;
+    background-color: #1a191f;
+    z-index: 999;
+    border-bottom: 2px solid white;
 }
 .header__logo {
     font-size: 32px;
@@ -96,4 +101,35 @@ body {
 }
 .movie__average--red {
     border: 1px solid red;
+}
+#title {
+    height: 100px;
+    width: 1200px;
+}
+.container__title {
+    font-size: 28px;
+    color: #ffd80e;
+    font-weight: 400;
+    padding: 0 15px;
+}
+.icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    width: 36px;
+    height: 36px;
+    background-color: white;
+    border-radius: 50%;
+    z-index: 120;
+}
+.favorite-icon {
+    border: transparent;
+}
+.not-favorite {
+    font-size: 28px;
+    color: red;
+    font-weight: 400;
+    padding: 0 15px;
+    width: 800px;
 }
